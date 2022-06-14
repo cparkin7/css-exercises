@@ -13,3 +13,9 @@
   font-size: 24px;
 }
 
+#second-id {
+  background-color: rgba(0, 255, 0, 0.4);
+  font-size: 24px;
+  font-weight: bold;
+}
+
