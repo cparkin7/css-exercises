@@ -56,15 +56,16 @@ li {
   border-radius: 4px;
   box-sizing: border-box;
   width: 300px;
-  height: 300px;
-  padding: 10px;
+  /* height: 300px; you don't need the height here */
+  padding: 16px;
+  margin: 16px;
 }
 
 .content {
   display: flex;
   /* outline: 2px solid red; */
   flex-wrap: wrap;
-  gap: 15px;
+  /* gap: 15px; */
   padding: 32px;
 }
 
